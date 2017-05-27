@@ -1,2 +1,3 @@
 # hello-world
-tutorial project
+
+Hi, this is some warm-up exercise bla, bla, bla...
